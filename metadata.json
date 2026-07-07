@@ -1,0 +1,6 @@
+{
+  "name": "Cálculo Integral para Ingeniería de Alimentos",
+  "description": "Una plataforma gamificada estilo Duolingo para aprender cálculo integral aplicado a ingeniería de alimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
