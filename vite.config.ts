@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Integrales2026/', // <-- Nombre exacto de tu repositorio con barras /
+    base: '/Integrales2026/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
